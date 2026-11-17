@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use or reference this research showcase, please cite it."
+title: "CDMX Road Safety Intelligence: Research Showcase"
+type: software
+authors:
+  - family-names: "Sedeño Méndez"
+    given-names: "Diego"
+year: 2026
+url: "https://github.com/dsm16/cdmx-road-safety-showcase"
